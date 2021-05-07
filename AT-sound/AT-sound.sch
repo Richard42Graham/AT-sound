@@ -629,4 +629,6 @@ Wire Wire Line
 Connection ~ 2900 4050
 Wire Wire Line
 	2900 4050 2900 4100
+Text Notes 6550 2550 0    50   ~ 0
+opto cupler part number wrong. 
 $EndSCHEMATC

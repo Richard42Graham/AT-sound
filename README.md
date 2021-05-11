@@ -14,4 +14,4 @@ Please contribute.
 
 ## License
 
-CERN Open Hardware Licence
+[CERN Open Hardware Licence](https://ohwr.org/cernohl)
